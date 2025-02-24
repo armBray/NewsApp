@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f00077f-e0b7-4d31-9287-156cecc7183f)# NewsApp Project
+# NewsApp Project
 
 Welcome to the NewsApp! This application allows users to view the latest news articles. To get started, you'll need to set up an API key to fetch the news data from NewsAPI.
 
@@ -6,10 +6,9 @@ Welcome to the NewsApp! This application allows users to view the latest news ar
 
 Here is a preview of the Android app:
 
-![App Screenshot Auth](assets/newsApp_auth.png)
-![App Screenshot News Screen](assets/newsApp_newsScreen.png)
-![App Screenshot News Detail Screen](assets/newsApp_newsDetailScreen.png)
-
+<img src="https://github.com/user-attachments/assets/6f00077f-e0b7-4d31-9287-156cecc7183f" alt="auth" width="200">
+<img src="https://github.com/user-attachments/assets/1fe6c8f9-d104-4478-adc9-c3df90fb75ff" alt="news screen" width="200">
+<img src="https://github.com/user-attachments/assets/f75cf3b3-b391-4ae2-a865-0a8ac35b1d57" alt="news detail" width="200">
 
 ## Prerequisites
 
